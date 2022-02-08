@@ -1,0 +1,20 @@
+body {
+    width: 300px;
+}
+
+.container div {}
+
+.okno:hover {
+    background-color: red;
+}
+
+.middle {
+    border-right: 5px solid grey;
+    border-left: 5px solid grey;
+    border-bottom: 5px solid grey;
+}
+
+.down {
+    border-left: 5px solid grey;
+    border-right: 5px solid grey;
+}
